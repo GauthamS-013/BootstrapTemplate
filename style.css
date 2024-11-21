@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .navbar{
-    background-color: #48474c;
+    background-color: #383e4c;
 }
 .nav-item{
     border: 1px solid #706e7e;
@@ -60,7 +60,7 @@
 }
 .smalltextcont>h1{
     font-size: 35px;
-    text-shadow: 2px 2px black;
+    text-shadow: 2px 2px rgb(174, 174, 174);
 }
 .smallbtn{
     border: 1px solid rgb(203, 203, 203);
